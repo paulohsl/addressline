@@ -31,7 +31,7 @@ Call compiled application and pass the free address as argument
 ```
 addressline "Klosterstraße 62"
 
-result: Klosterstraße,62
+result: "Klosterstraße,62"
 ```
 
 ## Running the tests
