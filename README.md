@@ -1,6 +1,8 @@
 # Simple Free Text Address Parser
 
-This is a simple Address Parser. It receives an simple String and returns two String fields: 1 - Street Name 2 - Street Number
+This is a simple Address Parser. It receives an simple String and returns two String fields: 
+
+1 - Street Name 2 - Street Number
 
 ## Setup Environment
 Instructions:
