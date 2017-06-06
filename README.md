@@ -28,8 +28,10 @@ cd $GOPATH/src/github.com/paulohsl/addressline/cmd/addressline
 go install
 ```
 Call compiled application and pass the free address as argument
-E.g.
+
 ```
+E.g. 
+
 addressline "Klosterstraße 62"
 
 result: "Klosterstraße,62"
