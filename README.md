@@ -30,7 +30,7 @@ go install
 Call compiled application and pass the free address as argument
 
 ```
-E.g. 
+For example:
 
 addressline "Klosterstraße 62"
 
